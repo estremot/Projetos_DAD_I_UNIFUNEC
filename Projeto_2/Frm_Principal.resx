@@ -120,10 +120,10 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Btn_Sair.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAACFSURBVDhPYxjUQBOI1wPxfiIxSC1IDwYASbwHYmyasGGQWpAeDABTQCzAqR6bBBMQVwOxEJiH
-        CnAa1A/FyEAPiL8B8VkgRjcMp0G4gBsQfwdidMPwuggmiY6fA/F/IEY2DCaHAahmEC5AlteoEtjYJMiK
-        fpwSOABO9VTLIlTLtIMBMDAAAJJ2V8m+vEa2AAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABGdBTUEAALGPC/xhBQAAAIVJREFUOE9j
+        GNRAE4jXA/F+IjFILUgPBgBJvAdibJqwYZBakB4MAFNALMCpHpsEExBXA7EQmIcKcBrUD8XIQA+IvwHx
+        WSBGNwynQbiAGxB/B2J0w/C6CCaJjp8D8X8gRjYMJocBqGYQLkCW16gS2NgkyIp+nBI4AE71VMsiVMu0
+        gwEwMAAAknZXyb68RrYAAAAASUVORK5CYII=
 </value>
   </data>
 </root>
