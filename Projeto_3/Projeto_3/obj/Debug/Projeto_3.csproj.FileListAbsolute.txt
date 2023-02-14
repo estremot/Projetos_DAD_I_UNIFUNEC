@@ -1,0 +1,12 @@
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\bin\Debug\Projeto_3.exe.config
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\bin\Debug\Projeto_3.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\bin\Debug\Projeto_3.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.Frm_Principal.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.Properties.Resources.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_3\Projeto_3\obj\Debug\Projeto_3.Visao.Frm_Venda.resources
