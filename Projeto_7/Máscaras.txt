@@ -1,0 +1,12 @@
+0 - Digitar de zero a 9 - obrigatório
+9 - Digitar 0 - 9 - opcional
+A - Alfanumérico - obrigatório
+a - Alfanumérico - opcional
+L - Letras a-z, A-Z - obrigatório
+? - Letras a-z, A-Z - opcional
+C - qualquer caractere não controlado - opcional
+# - Você pode digitar =/- : opcional
+
+'\0' - caractere
+
+"marcos" - string / cadeia de caracteres
