@@ -55,7 +55,7 @@ namespace Projeto_7
 
         private void button1_Click(object sender, EventArgs e)
         {
-          
+          txt_cidades.Text += (txt_cidade.Text)+"\r\n";
         }
     }
 }
