@@ -1,0 +1,12 @@
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\bin\Debug\Projeto_9_UC].exe.config
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\bin\Debug\Projeto_9_UC].exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\bin\Debug\Projeto_9_UC].pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC_.Form1.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC_.Properties.Resources.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC_.UserControl1.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC].exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Projeto_9_UC]\obj\Debug\Projeto_9_UC].pdb
