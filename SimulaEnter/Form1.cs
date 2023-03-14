@@ -44,8 +44,10 @@ namespace SimulaEnter
 
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
-            System.Drawing.Image image1 = System.Drawing.Image.FromFile("C:\\Users\\marco\\Desktop\\img1.png");
-            System.Drawing.Image image2 = System.Drawing.Image.FromFile("C:\\Users\\marco\\Desktop\\img2.png");
+            System.Drawing.Image image1 = System.Drawing.Image.FromFile("C:\\Users\\" +
+                "marco\\Desktop\\img1.png");
+            System.Drawing.Image image2 = System.Drawing.Image.FromFile("C:\\Users\\" +
+                "marco\\Desktop\\img2.png");
 
             // Set the size of the label to accommodate the bitmap size.
 
