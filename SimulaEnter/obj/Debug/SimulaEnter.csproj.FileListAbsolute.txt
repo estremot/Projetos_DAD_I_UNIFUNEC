@@ -1,0 +1,11 @@
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\bin\Debug\SimulaEnter.exe.config
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\bin\Debug\SimulaEnter.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\bin\Debug\SimulaEnter.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.Form1.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.Properties.Resources.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\SimulaEnter\obj\Debug\SimulaEnter.pdb
