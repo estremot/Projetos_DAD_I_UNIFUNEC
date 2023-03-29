@@ -13,13 +13,14 @@ namespace JogoVelha
     public partial class Form1 : Form
     {
         int valor = 0;
+        static string x = "E:\\Escolas\\FUNEC\\2023\\DAD I\\Projetos_DAD_I_UNIFUNEC\\JogoVelha\\imagens\\x.png";
+        static string bola = "E:\\Escolas\\FUNEC\\2023\\DAD I\\Projetos_DAD_I_UNIFUNEC\\JogoVelha\\imagens\\bola.png";
+        Image imagex = Image.FromFile(x);
+        Image imageb = Image.FromFile(bola);
 
-        Image imagex = Image.FromFile("E:\\Escolas\\FUNEC\\2023\\DAD I\\Projetos_DAD_I_UNIFUNEC\\JogoVelha\\imagens\\x.png");
-        Image imageb = Image.FromFile("E:\\Escolas\\FUNEC\\2023\\DAD I\\Projetos_DAD_I_UNIFUNEC\\JogoVelha\\imagens\\bola.png");
-
-        int a = 0;
-        int b = 0;
-        int c = 0;
+        string a = null;
+        string b = null;
+        string c = null;
 
         public Form1()
         {
@@ -32,12 +33,12 @@ namespace JogoVelha
             if(valor % 2 == 0)
             {
                 pictureBox1.Image = imagex;
-                pictureBox1.Tag = 1;
+                a = x;
             }
             else
             {
                 pictureBox1.Image = imageb;
-                pictureBox1.Tag = 0;
+                a = bola;
             }
             valor++;
 
@@ -50,54 +51,18 @@ namespace JogoVelha
         private void verificaLinha1()
         {
             
-
-            if (pictureBox1.Tag != null)
+            if (a.Equals(b) && b.Equals(c))
             {
-                a = Int32.Parse(pictureBox1.Tag.ToString());
-                MessageBox.Show("" + a);
-            }
-            else
-            {
-                if (pictureBox2.Tag != null)
+                if (valor % 2 == 0)
                 {
-                    b = Int32.Parse(pictureBox2.Tag.ToString());
-                    MessageBox.Show("" + b);
+                    MessageBox.Show("Bola Venceu");
                 }
                 else
                 {
-                    if (pictureBox3.Tag != null)
-                    {
-                        c = Int32.Parse(pictureBox3.Tag.ToString());
-                        MessageBox.Show("c: " + c + "  a: "+a);
-                        
-
-                    }
-                    else
-                    {
-                        if (a == b && b == c)
-                        {
-                            if (valor % 2 == 0)
-                            {
-                                MessageBox.Show("Bola Venceu");
-                            }
-                            else
-                            {
-                                MessageBox.Show("X Venceu");
-                            }
-
-                        }
-                    }
-                        
+                    MessageBox.Show("X Venceu");
                 }
 
-                    
             }
-                
-
-            
-
-            
-
             
         }
 
@@ -107,12 +72,12 @@ namespace JogoVelha
             if (valor % 2 == 0)
             {
                 pictureBox2.Image = imagex;
-                pictureBox2.Tag = 1;
+                b = x;
             }
             else
             {
                 pictureBox2.Image = imageb;
-                pictureBox2.Tag = 0;
+                b = bola;
             }
             valor++;
 
@@ -127,12 +92,13 @@ namespace JogoVelha
             if (valor % 2 == 0)
             {
                 pictureBox3.Image = imagex;
-                pictureBox3.Tag = 1;
+                c = x;
+            
             }
             else
             {
                 pictureBox3.Image = imageb;
-                pictureBox3.Tag = 0;
+                c = bola;
             }
             valor++;
             pictureBox3.Enabled = false;
