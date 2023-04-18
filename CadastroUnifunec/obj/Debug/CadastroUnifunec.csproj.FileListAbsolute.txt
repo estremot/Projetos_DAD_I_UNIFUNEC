@@ -1,0 +1,12 @@
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\bin\Debug\CadastroUnifunec.exe.config
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\bin\Debug\CadastroUnifunec.exe
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\bin\Debug\CadastroUnifunec.pdb
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.FrmCadCurso.resources
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.FrmPrincipal.resources
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.Properties.Resources.resources
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.exe
+C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.pdb
