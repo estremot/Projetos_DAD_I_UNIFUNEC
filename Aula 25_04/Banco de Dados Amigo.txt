@@ -1,0 +1,14 @@
+     Banco de Dados Amigo
+
+		Sexo = {codsexo, nomesexo}
+		Cidade = {codcidade, nomecidade}
+		Bairro = {codbairro, nomebairro}
+		Rua = {codrua, nomerua}
+		Cep = {codcep, numerocep}
+		Estado = {codestado, nomeestado, sigla}
+		partido = {codpartido, nomepartido, siglapartido}
+		presidente = {codpresidente, nomepresidente, codpartidofk}
+		pais = {codpais, nomepais, codpresidentefk}
+		Amigo = {codamigo, nomeamigo, codsexofk, codcidadefk, codbairrofk, codruafk,
+codcepfk, codestadofk, codpaisfk, numerocasa, email, telefone}
+		
