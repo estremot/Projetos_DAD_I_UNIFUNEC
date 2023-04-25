@@ -1,0 +1,15 @@
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\bin\Debug\ProjetoAmigo.exe.config
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\bin\Debug\ProjetoAmigo.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\bin\Debug\ProjetoAmigo.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.Form1.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.Properties.Resources.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmSexo.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmRua.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmPartido.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmPresidente.resources

@@ -77,4 +77,32 @@ create table amigo(
 	telefone varchar(15) not null
 );
 
+CREATE VIEW dados_amigo as(
+SELECT dbo.amigo.codamigo, dbo.amigo.nomeamigo, dbo.amigo.numerocasa, dbo.amigo.email, dbo.amigo.telefone, dbo.bairro.nomebairro, dbo.cep.numerocep, dbo.estado.sigla, dbo.cidade.nomecidade, dbo.rua.nomerua, 
+       dbo.sexo.nomesexo, dbo.pais.nomepais
+FROM            dbo.amigo INNER JOIN
+                         dbo.bairro ON dbo.amigo.codbairrofk = dbo.bairro.codbairro INNER JOIN
+                         dbo.cep ON dbo.amigo.codcepfk = dbo.cep.codcep INNER JOIN
+                         dbo.cidade ON dbo.amigo.codcidadefk = dbo.cidade.codcidade INNER JOIN
+                         dbo.estado ON dbo.amigo.codestadofk = dbo.estado.codestado INNER JOIN
+                         dbo.pais ON dbo.amigo.codpaisfk = dbo.pais.codpais INNER JOIN
+                         dbo.presidente ON dbo.pais.codpresidentefk = dbo.presidente.codpresidente INNER JOIN
+                         dbo.partido ON dbo.presidente.codpartidofk = dbo.partido.codpartido INNER JOIN
+                         dbo.rua ON dbo.amigo.codruafk = dbo.rua.codrua INNER JOIN
+                         dbo.sexo ON dbo.amigo.codsexofk = dbo.sexo.codsexo
+);
+
+
+ create view dados_pais as(
+ SELECT        dbo.presidente.nomepresidente, dbo.pais.nomepais, dbo.pais.codpais
+FROM            dbo.pais INNER JOIN
+                         dbo.presidente ON dbo.pais.codpresidentefk = dbo.presidente.codpresidente
+ );
+
+ create view dados_presidente as(
+ SELECT        dbo.partido.nomepartido, dbo.presidente.codpresidente, dbo.presidente.nomepresidente, dbo.partido.siglapartido
+FROM            dbo.partido INNER JOIN
+                         dbo.presidente ON dbo.partido.codpartido = dbo.presidente.codpartidofk
+ );
+
 

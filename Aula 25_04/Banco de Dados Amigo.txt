@@ -11,4 +11,6 @@
 		pais = {codpais, nomepais, codpresidentefk}
 		Amigo = {codamigo, nomeamigo, codsexofk, codcidadefk, codbairrofk, codruafk,
 codcepfk, codestadofk, codpaisfk, numerocasa, email, telefone}
+
+
 		
