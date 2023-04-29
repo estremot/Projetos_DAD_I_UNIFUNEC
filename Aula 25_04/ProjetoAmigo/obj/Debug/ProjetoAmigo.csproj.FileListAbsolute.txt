@@ -13,3 +13,9 @@ E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\
 E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmRua.resources
 E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmPartido.resources
 E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmPresidente.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmBairro.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmCep.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmCidade.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmAmigo.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmEstado.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\Aula 25_04\ProjetoAmigo\obj\Debug\ProjetoAmigo.view.FrmPais.resources

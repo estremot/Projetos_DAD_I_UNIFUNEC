@@ -59,6 +59,42 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="view\FrmAmigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmAmigo.Designer.cs">
+      <DependentUpon>FrmAmigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FrmBairro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmBairro.Designer.cs">
+      <DependentUpon>FrmBairro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FrmCep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmCep.Designer.cs">
+      <DependentUpon>FrmCep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FrmCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmCidade.Designer.cs">
+      <DependentUpon>FrmCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FrmEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmEstado.Designer.cs">
+      <DependentUpon>FrmEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FrmPais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FrmPais.Designer.cs">
+      <DependentUpon>FrmPais.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\FrmPartido.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +131,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="view\FrmAmigo.resx">
+      <DependentUpon>FrmAmigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FrmBairro.resx">
+      <DependentUpon>FrmBairro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FrmCep.resx">
+      <DependentUpon>FrmCep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FrmCidade.resx">
+      <DependentUpon>FrmCidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FrmEstado.resx">
+      <DependentUpon>FrmEstado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FrmPais.resx">
+      <DependentUpon>FrmPais.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\FrmPartido.resx">
       <DependentUpon>FrmPartido.cs</DependentUpon>
     </EmbeddedResource>
