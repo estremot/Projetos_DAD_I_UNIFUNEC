@@ -10,3 +10,15 @@ C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.c
 C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.CoreCompileInputs.cache
 C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.exe
 C:\Users\marco\Desktop\Projetos C#\CadastroUnifunec\obj\Debug\CadastroUnifunec.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\bin\Debug\CadastroUnifunec.exe.config
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\bin\Debug\CadastroUnifunec.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\bin\Debug\CadastroUnifunec.pdb
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.SuggestedBindingRedirects.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.FrmCadCurso.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.FrmPrincipal.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.Properties.Resources.resources
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.exe
+E:\Escolas\FUNEC\2023\DAD I\Projetos_DAD_I_UNIFUNEC\CadastroUnifunec\obj\Debug\CadastroUnifunec.pdb
